@@ -1,6 +1,6 @@
 # CPP01 – 42 C++ Module
 
-This was my **first C++ project** at 42 School. It’s a small but crucial exercise designed to get hands-on experience with **basic C++ concepts**: classes, constructors, destructors, member functions, and operator overloading.
+This was one of **C++ projects** at 42 School. It’s a small but crucial exercise designed to get hands-on experience with **basic C++ concepts**: classes, constructors, destructors, member functions, and operator overloading.
 
 ---
 
