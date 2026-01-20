@@ -35,6 +35,7 @@ This was one of **C++ projects** at 42 School. It’s a small but crucial exerci
 ```bash
 git clone <repo-url>
 cd cpp01
+cd <exercise number> # change to the directory of the exercise you want to build
 make
 ./<executable>
 ```
